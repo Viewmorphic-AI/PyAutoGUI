@@ -9,7 +9,8 @@ To run the server, execute the following command:
 ```bash
 python pyautogui-mcp.py
 ```
-
+Open the Gemini CLI settings file. The location is ~/.gemini/settings.json (where ~ is your home directory).
+Add the following to the mcpServers object in your settings.json file:
 ```bash
 {
   "mcpServers": {
