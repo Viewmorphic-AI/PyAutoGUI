@@ -9,3 +9,17 @@ To run the server, execute the following command:
 ```bash
 python pyautogui-mcp.py
 ```
+
+```bash
+{
+  "mcpServers": {
+      "pyautogui": {
+        "command": "python",
+        "args": [
+          "C:\\Users\\deept\\Desktop\\Claude\\pyautogui-mcp.py"
+        ],
+        "env": {}
+      }
+  }
+}
+```
